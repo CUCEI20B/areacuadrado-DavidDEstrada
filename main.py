@@ -1,3 +1,3 @@
 lado = input()
 lado = int
-print(lado * lado)   
+print (lado * lado)
