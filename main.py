@@ -1,1 +1,3 @@
-print("Hola Mundo")
+lado = input()
+lado = int
+print(lado * lado)   
